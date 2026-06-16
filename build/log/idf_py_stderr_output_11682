@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/nikola/.espressif/tools/python/v6.0.1/venv/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 

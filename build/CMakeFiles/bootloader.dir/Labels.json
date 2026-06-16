@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/nikola/Desktop/Files/Projects/ESP/Accelerometer-Angles/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
